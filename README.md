@@ -19,12 +19,12 @@ You can learn more about Tailwind CSS on the [official website](https://tailwind
 
 ## Preview
 - Landing Section
-<img width="1265" alt="Screenshot 2022-07-03 130210" src="https://user-images.githubusercontent.com/63476270/177055567-e158dcd0-ffee-4fbe-86c0-b54edcaa4645.png">
+![image](https://github.com/HasanDireya23/brainwave-website/assets/154442851/4cf0c947-04e3-4011-bde6-31e5720b4020)
 
 - Support Section
-<img width="1268" alt="Screenshot 2022-07-03 130231" src="https://user-images.githubusercontent.com/63476270/177055579-c57d87a3-5236-4e76-bbc8-937d56e636da.png">
+![image](https://github.com/HasanDireya23/brainwave-website/assets/154442851/90eba7b8-4b2e-400f-8678-f7b8959980ba)
 
 - Pricing Section
-<img width="1267" alt="Screenshot 2022-07-03 130252" src="https://user-images.githubusercontent.com/63476270/177055584-cb69c1e9-48ab-4f02-891f-f71b4a4490fe.png">
+![image](https://github.com/HasanDireya23/brainwave-website/assets/154442851/3fb1fcfc-bad4-4f10-a0d6-bffec49be7af)
 
 - **Try it !!** : [Live Demo For Cloud Website](https://cloud-react-76451bexv-hasans-projects-fb9d78f4.vercel.app)
