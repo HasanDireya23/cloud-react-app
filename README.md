@@ -27,4 +27,4 @@ You can learn more about Tailwind CSS on the [official website](https://tailwind
 - Pricing Section
 ![image](https://github.com/HasanDireya23/brainwave-website/assets/154442851/3fb1fcfc-bad4-4f10-a0d6-bffec49be7af)
 
-- **Try it !!** : [Live Demo For Cloud Website](https://cloud-react-76451bexv-hasans-projects-fb9d78f4.vercel.app)
+- **Try it !!** : [Live Demo For Cloud Website](https://cloud-react-app-hasans-projects-fb9d78f4.vercel.app)
